@@ -1,0 +1,17 @@
+Elementy diagonalne miacierzy U: 0.5 0.0333333 -0.00138889 0.000102041 
+Wyznacznik macierzy A: 2.36206e-09
+
+Macierz odwrotna:
+   200  -1200   2100  -1120 
+ -1200   8100 -15120   8400 
+  2100 -15120  29400 -16800 
+ -1120   8400 -16800   9800 
+
+Macierz A*A^-1:
+             1   -2.27374e-13              0              0 
+  -2.84217e-14              1    4.54747e-13              0 
+             0   -2.27374e-13              1              0 
+             0              0              0              1 
+Wskaznik uwarunkowania macierzy A: 0.5
+Wskaznik uwarunkowania macierzy A (odwroconej): 29400
+Wskaznik uwarunkowania macierzy k(A): 14700
